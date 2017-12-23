@@ -5,6 +5,6 @@ description: ""
 header-img: "img/10099317756_2d49569c6d_k.jpg"
 ---
 
-Book [Computational Optimal Transport](../book/). 
+Book [Book](../book/). 
 Slides [Slides](../slides/) 
 Resources [Resources](../resources/)
