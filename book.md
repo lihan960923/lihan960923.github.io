@@ -2,7 +2,7 @@
 layout: page
 title: "Book"
 description: "Book"
-header-img: "what is art.jpg"
+header-img: "img/what is art.jpg"
 ---
 
 
