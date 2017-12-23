@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "The Book"
-description: "Computational Optimal Transport"
+title: "Book"
+description: "Book"
 header-img: "img/5395977052_3bd157c466_b.jpg"
 ---
 
-You can retrieve the draft of the book:
+Book:
 
 <div align="center">
   <a href="http://www.gpeyre.com/">Gabriel Peyré</a> and <a href="http://marcocuturi.net/">Marco Cuturi</a>, <i><a href="../pdf/ComputationalOT.pdf">Computational Optimal Transport</a></i>, 2017.
