@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Computational Optimal Transport"
+title: "Homepage of Lihan"
 description: ""
 header-img: "img/10099317756_2d49569c6d_k.jpg"
 ---
 
-This website host the book project [Computational Optimal Transport](../book/). You will also find [slides](../slides/) and [computational resources](../resources/)
+Book [Computational Optimal Transport](../book/). 
+Slides [Slides](../slides/) 
+Resources [Resources](../resources/)
