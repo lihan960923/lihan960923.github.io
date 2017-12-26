@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Code"
-description: "code"
+title: "Resources"
+description: "resources"
 header-img: "img/what is art.jpg"
 ---
 
