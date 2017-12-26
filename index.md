@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Welcome"
-description: ""
+description: "Homepage of Lihan"
 header-img: "img/what is art.jpg"
 ---
 
