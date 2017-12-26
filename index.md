@@ -7,3 +7,6 @@ header-img: "img/what is art.jpg"
 
 News
 ====
+
+Bio
+===
