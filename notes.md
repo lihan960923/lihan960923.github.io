@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Slides"
-description: "Slides"
+title: "Notes"
+description: "Notes"
 header-img: "img/what is art.jpg"
 ---
 
